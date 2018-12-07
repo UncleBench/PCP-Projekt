@@ -19,6 +19,6 @@
 ####  Falls Ja: für was? 
 ####  Falls Nein: Wieso nicht?
 
-#### 5.2 Persönliches Fazit Lukas Schnüriger
+#### 5.2 Persönliches Fazit Lucas Schnüriger
 
 #### 5.3 Persönliches Fazit Valentin Bürgler
