@@ -49,6 +49,32 @@ Als Datenstruktur kennt Scratch **Listen** mit dynamischer Länge und beliebigen
 
 ### 2.2 Blöcke
 
+Scratch-Programme bestehen aus einem oder mehreren Skripten, welche aus mehreren aufeinander gestapelten Blöcken aufgebaut wird. Ein Skript besteht mindestens aus einem Kopf-Block, der das Ereignis festlegt unter dem es gestartet wird. Jedes Skript ist entweder teil einer Figur oder der Bühne.
+
+Blöcke sind wie farbige Puzzleteile, die sich miteinander verbinden lassen. Durch deren Form sind nur syntaktisch korrekte Kombinationen möglich, Syntaxfehler werden damit vermieden. Es gibt total weit über 100 verschiedene Blöcke in den folgenden sechs verschiedenen Formen: 
+- **Hat**: Die Hut, bzw. Kopf-Blöcke, starten ein Skript als Reaktion auf ein Ereignis.
+- **Stack**: Sie führen wesentliche Befehle aus und haben Anschlüsse oben und unten.
+- **Reporter**: Sie stehen für Werte und geben entweder eine Zahl oder eine Zeichenkette zurück.
+- **Boolean**: Das sind spezielle Reporter-Blöcke, die entweder mit Wahr/1 oder Falsch/0 antworten.
+- **C**: Die Klammer-Blöcke sind Steuerungsblöcke, die andere Blöcke enthalten, die entweder mehrmals oder nur unter einer Bedingung ausgeführt werden sollen. Sie sind das Pendant für While, For und If.
+- **Cap**: Mit den Abschluss-Blöcken werden Skripte beendet.
+
+Nebst der Form können die Blöcke in ihrer Farbe unterschieden werden. In Scratch 3.0 gibt es 9 offizielle Blockkategorien, die jeweils eine andere Farbe haben.
+
+|Farbe|Kategorie|Bedeutung|
+|-----|---------|---------|
+| Blau | Motion  | Steuern die Bewegungen von Figuren. |
+| Violett | Looks | Steuern das Aussehen von Figuren und der Bühne. Es sind die am häufigsten verwendeten Blöcke. |
+| Pink | Sound | 9 Blöcke um die Töne abzuspielen und zu steuern. |
+| Gelb | Events | Erkennen Ereignisse und lösen Skripte aus. Fast alle Hat Blöcke sind Event Blöcke. |
+| Gold | Control | Steuern den Kontrollfluss der Skripte mit Schleifen, Bedingungen. |
+| Türkis | Sensing | Werden verwendet um verschiedene Faktoren zu erkennen: darunter Berührungen von Farben und Benutzereingaben. |
+| Grün | Operators | Blöcke für mathematische und logische Operationen. |
+| Orange/Rot | Data | Variablen um Zahlen oder Zeichenketten zu speichern (orange) und Listenoperationen (rot). |
+| Rosa | Custom Blocks | Vom Benutzer erstellte Hat oder Stack Blöcke. Erlaubt der Aufruf von Skripten mit Parametern. Dies ermöglicht auch Rekursion. |
+
+Nebst den wesentlichen Kategorien gibt es Erweiterungen (Extensions) die unter anderem die Verwendung von Kamerabild, Text-to-Speech und weiterem erlaubt.
+
 ### 2.3 Nachrichten & Nebenläufigkeit
 
 ### 2.4 Klone (erlauben OOP)
