@@ -63,15 +63,15 @@ Nebst der Form können die Blöcke in ihrer Farbe unterschieden werden. In Scrat
 
 |Farbe|Kategorie|Bedeutung|
 |-----|---------|---------|
-| Blau | Motion  | Steuern die Bewegungen von Figuren. |
-| Violett | Looks | Steuern das Aussehen von Figuren und der Bühne. Es sind die am häufigsten verwendeten Blöcke. |
-| Pink | Sound | 9 Blöcke um die Töne abzuspielen und zu steuern. |
-| Gelb | Events | Erkennen Ereignisse und lösen Skripte aus. Fast alle Hat Blöcke sind Event Blöcke. |
-| Gold | Control | Steuern den Kontrollfluss der Skripte mit Schleifen, Bedingungen. |
-| Türkis | Sensing | Werden verwendet um verschiedene Faktoren zu erkennen: darunter Berührungen von Farben und Benutzereingaben. |
-| Grün | Operators | Blöcke für mathematische und logische Operationen. |
-| Orange/Rot | Data | Variablen um Zahlen oder Zeichenketten zu speichern (orange) und Listenoperationen (rot). |
-| Rosa | Custom Blocks | Vom Benutzer erstellte Hat oder Stack Blöcke. Erlaubt der Aufruf von Skripten mit Parametern. Dies ermöglicht auch Rekursion. |
+| Blau | Motion (Bewegung)  | Steuern die Bewegungen von Figuren. |
+| Violett | Looks (Aussehen) | Steuern das Aussehen von Figuren und der Bühne. Es sind die am häufigsten verwendeten Blöcke. |
+| Pink | Sound (Klang) | 9 Blöcke um die Töne abzuspielen und zu steuern. |
+| Gelb | Events (Ereignisse) | Erkennen Ereignisse und lösen Skripte aus. Fast alle Hat Blöcke sind Event Blöcke. |
+| Gold | Control (Steuerung) | Steuern den Kontrollfluss der Skripte mit Schleifen, Bedingungen. |
+| Türkis | Sensing (Fühlen) | Werden verwendet um verschiedene Faktoren zu erkennen: darunter Berührungen von Farben und Benutzereingaben. |
+| Grün | Operators (Operatoren) | Blöcke für mathematische und logische Operationen. |
+| Orange/Rot | Data (Daten) | Variablen um Zahlen oder Zeichenketten zu speichern (orange) und Listenoperationen (rot). |
+| Rosa | Custom Blocks (Meine Blöcke) | Vom Benutzer erstellte Hat oder Stack Blöcke. Erlaubt der Aufruf von Skripten mit Parametern. Dies ermöglicht auch Rekursion. |
 
 Nebst den wesentlichen Kategorien gibt es Erweiterungen (Extensions) die unter anderem die Verwendung von Kamerabild, Text-to-Speech und weiterem erlaubt.
 
