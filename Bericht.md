@@ -12,13 +12,13 @@ Javascript wurde wegen seiner weitverbreiteten Unterstützung durch gängige Web
 
 Release | Datum | Verfügbar auf
 --- | --- | ---
-Public Alpha | Januar 2018 | [https://preview.scratch.mit.edu/]
-Beta | 01. August 2018 | [https://beta.scratch.mit.edu/]
-Offiziell | 02. Januar 2019 | [https://scratch.mit.edu/]
+Public Alpha | Januar 2018 | https://preview.scratch.mit.edu/
+Beta | 01. August 2018 | https://beta.scratch.mit.edu/
+Offiziell | 02. Januar 2019 | https://scratch.mit.edu/
 
 _**Tabelle 1:** Übersicht der offiziellen Release-Termine von Scratch 3.0_
 
-Scratch-Programme werden in einer browserbasierten Entwicklungsumgebung auf [https://scratch.mit.edu] erstellt.
+Scratch-Programme werden in einer browserbasierten Entwicklungsumgebung auf https://scratch.mit.edu erstellt.
 Eine offline-Version ist aber zum Download verfügbar.
 
 ### 1.2 Vision
@@ -28,12 +28,13 @@ Resnick, Mitchel, et al. "Scratch: programming for all." _Communications of the 
 
 Die Programmiersprache Scratch soll die Grundkonzepte der Programmierung für Neueinsteiger verständlich vermitteln.
 Die Zielgruppe sind primär Kinder und Jugendliche.
-Nach eigenen Aussagen hilft Scratch "jungen Leuten, kreativ zu denken, systematisch zu schlussfolgern und miteinander zusammenzuarbeiten".
+Nach eigenen Aussagen hilft Scratch "jungen Leuten, kreativ zu denken, systematisch zu schlussfolgern und miteinander zusammenzuarbeiten".  
+Weiter sammelt das MIT Daten über die Nutzung und betreibt Forschung darüber, wie die Benutzer mit Scratch lernen und arbeiten.  
+
 
 ### 1.3 Verbreitung
 
-Scratch wird in über 150 Ländern verwendet und ist in mehr als 40 Sprachen verfügbar.
-
+Scratch wird in über 150 Ländern verwendet und ist in mehr als 40 Sprachen verfügbar. In Schulen ist es nicht selten schon ein Teil des Informatikunterrichts geworden. In den sogenannten "Scratch Studios" auf der [offiziellen Seite](https://scratch.mit.edu/)
 
 ## 2. Die Sprache
 ### 2.1 Allgemeines
@@ -59,7 +60,7 @@ Blöcke sind wie farbige Puzzleteile, die sich miteinander verbinden lassen. Dur
 - **C**: Die Klammer-Blöcke sind Steuerungsblöcke, die andere Blöcke enthalten, die entweder mehrmals oder nur unter einer Bedingung ausgeführt werden sollen. Sie sind das Pendant für While, For und If.
 - **Cap**: Mit den Abschluss-Blöcken werden Skripte beendet.
 
-Nebst der Form können die Blöcke in ihrer Farbe unterschieden werden. In Scratch 3.0 gibt es 9 offizielle Blockkategorien, die jeweils eine andere Farbe haben.
+Nebst der Form können die Blöcke in ihrer Farbe unterschieden werden. In Scratch 3.0 gibt es neun offizielle Blockkategorien, die jeweils eine andere Farbe haben.
 
 |Farbe|Kategorie|Bedeutung|
 |-----|---------|---------|
@@ -73,6 +74,8 @@ Nebst der Form können die Blöcke in ihrer Farbe unterschieden werden. In Scrat
 | Orange/Rot | Data (Daten) | Variablen um Zahlen oder Zeichenketten zu speichern (orange) und Listenoperationen (rot). |
 | Rosa | Custom Blocks (Meine Blöcke) | Vom Benutzer erstellte Hat oder Stack Blöcke. Erlaubt der Aufruf von Skripten mit Parametern. Dies ermöglicht auch Rekursion. |
 
+_**Tabelle 2:** Übersicht der verfügbaren Blockkategorien in Scratch 3.0_
+
 Nebst den wesentlichen Kategorien gibt es Erweiterungen (Extensions) die unter anderem die Verwendung von Kamerabild, Text-to-Speech und weiterem erlaubt.
 
 ### 2.3 Nachrichten & Nebenläufigkeit
@@ -82,9 +85,25 @@ Nebst den wesentlichen Kategorien gibt es Erweiterungen (Extensions) die unter a
 ## 3. Fazit
 ### 3.1 Team
 #### "Gute" Sprache?
+Ja - Kaum eine Sprache schafft es, genau das zu halten, was sie verspricht. Scratch schafft dies mit Bravur.
+
+**Pro:**  
+Es ist *die* Sprache, um jemanden an das Programmieren heran zu führen. Man braucht keinen Syntax zu lernen, da dieser in Form von visuellen Blöcken völlig selbsterklärend ist. Ausserdem lassen sich keine Syntaxfehler machen, weil man die Blöcke nicht falsch zusammenstecken kann. Die Blöcke ergeben letztendlich auch sehr sprechenden "Code", den man dann in seiner eigenen Muttersprache lesen kann.
+
+**Contra:**  
+Drag-and-drop-Hölle
+
 ####  Würden Sie sie regelmässig einsetzten wollen?
+Als Softwareentwickler: Nein, nicht produktiv.
+Als Lehrer: Definitiv.
+
 ####  Falls Ja: für was?
+Als Werkzeug um ein Proof-of-Concept zu erstellen
+
 ####  Falls Nein: Wieso nicht?
+Projekte können nicht als Standalone-Applikation exportiert werden, sondern sind von der Scratch-Seite abhängig.
+Man darf keine Proprietärsoftware damit erstellen.
+
 
 ### 3.2 Persönliches Fazit Lucas Schnüriger
 
