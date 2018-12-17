@@ -19,27 +19,27 @@ Offiziell | 02. Januar 2019 | https://scratch.mit.edu/
 _**Tabelle 1:** Übersicht der offiziellen Release-Termine von Scratch 3.0_
 
 Scratch-Programme werden in einer browserbasierten Entwicklungsumgebung auf https://scratch.mit.edu erstellt.
-Eine offline-Version ist aber zum Download verfügbar.
+Eine offline-Version ist zum Download verfügbar, allerdings zum Zeitpunkt dieses Teamprojektes noch nicht für Version 3.0.
 
 ### 1.2 Vision
-> We wanted to develop an approach to programming that would appeal to people who hadn’t previously imagined themselves as programmers. We wanted to make it easy for everyone, of all ages, backgrounds, and interests, to program their own interactive stories, games, animations, and simulations, and share their creations with one another.
-
-Resnick, Mitchel, et al. "Scratch: programming for all." _Communications of the ACM_ 52.11 (2009): 60-67.
+> "We wanted to develop an approach to programming that would appeal to people who hadn’t previously imagined themselves as programmers. We wanted to make it easy for everyone, of all ages, backgrounds, and interests, to program their own interactive stories, games, animations, and simulations, and share their creations with one another." - **Resnick, Mitchel, et al.** "Scratch: programming for all.", in: _Communications of the ACM_ 52.11 (2009): 60-67.
 
 Die Programmiersprache Scratch soll die Grundkonzepte der Programmierung für Neueinsteiger verständlich vermitteln.
 Die Zielgruppe sind primär Kinder und Jugendliche.
-Nach eigenen Aussagen hilft Scratch "jungen Leuten, kreativ zu denken, systematisch zu schlussfolgern und miteinander zusammenzuarbeiten".  
+Nach eigenen Aussagen hilft Scratch 
+> "[...] jungen Leuten, kreativ zu denken, systematisch zu schlussfolgern und miteinander zusammenzuarbeiten [...]" - **Lifelong Kindergarten Group**: _Über Scratch_. URL: https://scratch.mit.edu/about [17.12.2018].
+
 Weiter sammelt das MIT Daten über die Nutzung und betreibt Forschung darüber, wie die Benutzer mit Scratch lernen und arbeiten.  
 
 
 ### 1.3 Verbreitung
 
-Scratch wird in über 150 Ländern verwendet und ist in mehr als 40 Sprachen verfügbar. In Schulen ist es nicht selten schon ein Teil des Informatikunterrichts geworden. In den meist nach Themenbereich gruppierten, sogenannten "Scratch Studios" (vor 2.0 noch "Galleries") auf der [offiziellen Seite](https://scratch.mit.edu/) können Benutzer ihre Projekte veröffentlichen. Nach dem Veröffentlichen ist es jedermann gestattet, einen sogenannten "Remix" des Projektes zu machen. Sämtliche in "Scratch Studios" veröffentlichte Projekte unterliegen der Creative Commons Attribution Share-Alike license 2.0.
+Scratch wird in über 150 Ländern verwendet und ist in mehr als 40 Sprachen verfügbar. In Schulen ist es nicht selten schon ein Teil des Informatikunterrichts geworden. In den meist nach Themenbereich gruppierten, sogenannten "Scratch Studios" (vor 2.0 noch "Galleries") auf der [offiziellen Seite](https://scratch.mit.edu/) können Benutzer ihre Projekte veröffentlichen. Nach dem Veröffentlichen ist es jedermann gestattet, einen sogenannten "Remix" des Projektes zu machen. Sämtliche in "Scratch Studios" veröffentlichte Projekte unterliegen der **Creative Commons Attribution Share-Alike license 2.0**.
 
 ## 2. Die Sprache
 ### 2.1 Allgemeines
 
-In einem Scratch Projekt agieren **Spielfiguren** (Sprites) auf einer **Bühne** (Stage). Sie können unterschiedliche Kostüme (Grafiken) anziehen und Geräusche abspielen. Alle Bestandteile können selber entworfen und zur Laufzeit verändert werden. Die Figuren können bewegt werden, man kann sie sprechen oder Geräusche machen lassen und sie können auf verschiedene Ereignisse reagieren.
+In einem Scratch Projekt agieren **Spielfiguren** (Sprites) auf einer **Bühne** (Stage). Sie können unterschiedliche Kostüme (Grafiken) anziehen und Geräusche abspielen. Alle Bestandteile können selber entworfen und zur Laufzeit verändert werden. Die Figuren können bewegt werden, man kann sie denken, sprechen oder Geräusche machen lassen und sie können auf verschiedene Ereignisse reagieren.
 
 Scratch ist eine **visuelle** Programmiersprache. Anweisungen werden hierbei mit grafischen Elementen statt mit reinem Text dargestellt und per Drag & Drop zusammengebaut.
 Auch wenn es keine Konstrukte für Klassen und Vererbung oder Prototypen gibt, besitzt Scratch **objektorientierte** Aspekte. Spielfiguren sind Objekte mit Eigenschaften (Datenkapselung) und können geklont werden um mehrere Instanzen mit gleichem Verhalten und unterschiedlichen Eigenschaften zu erhalten. Die Kommunikation zwischen verschiedenen Instanzen ist über den Austausch von Nachrichten möglich.
