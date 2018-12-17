@@ -94,7 +94,7 @@ Geklonte Figuren haben keine besonderen Bezug zueinander oder zu anderen Figuren
 
 ## 3. Fazit
 ### 3.1 Team
-#### "Gute" Sprache?
+#### Handelt es sich bei Scratch um eine "Gute" Sprache?
 Ja - Kaum eine Sprache schafft es, genau das zu halten, was sie verspricht. Scratch schafft dies mit Bravour. Sie will den Einsteig in die Welt des Programmieren verständlich und intuitiv machen, unbeachtet des Vorwissens. Dies macht Scratch hervorragend.
 
 **Pro:**  
@@ -103,7 +103,7 @@ Es ist *die* Sprache, um jemanden an das Programmieren heran zu führen. Man bra
 **Contra:**  
 Als Softwareentwickler ist die Programmierung mit praktisch ausschliesslich Drag & Drop sehr ungewohnt und eher ein Hindernis zum schnellen Arbeiten mit der Tastatur.
 
-####  Würden Sie sie regelmässig einsetzten wollen?
+####  Würden wir sie regelmässig einsetzten wollen?
 Als Softwareentwickler: Nein, nicht produktiv. Projekte können nicht offiziell als Stand-Alone-Applikation exportiert werden, sondern sind von der Scratch-Webseite abhängig. Da alles im Rahmen von Scratch unter der Creative Commons Lizenz steht, darf man keine proprietäre Software mit geschlossenem Quelltext damit erstellen. Scratch könnte allerdings als Werkzeug, um rasch ein Proof-of-Concept Prototyp zu erstellen hilfreich sein.
 
 Als Lehrer: Definitiv. Die grafische Oberfläche und visuelle Darstellung von Code ermöglicht einen unkomplizierten Start in die Programmierung.
@@ -118,3 +118,8 @@ Die exzessive "Klickerei", die Scratch bedingt, ist für mich persönlich nach e
 Um Kindern und Jugendlichen, aber auch nicht-technikaffinen Erwachsenen, das Programmieren auf spielerische, verständliche Art beizubringen kann ich Scratch nur empfehlen. Besonders da die grundlegenden Konzepte imperativer (und auch etwas der objektorientierten) Programmierung erhalten sind. Man kann eigene Funktionsblöcke mit Namen aufrufen, globale und lokale Variablen haben, es hat alle üblichen Schleifen und Bedingungen. Möchten Interessierte nach Scratch weiterfahren, müssen sie nicht alle gelernten Konzepte wieder über den Haufen werfen.
 
 ### 3.3 Persönliches Fazit Valentin Bürgler
+Von Scratch hatte ich zuvor nur wenig gehört. Wie man allerdings beim Blick auf die Community erkennen kann, erfreut es sich gewaltiger Beliebtheit bei klein und gross. Es ist erstaunlich, welche "Artenvielfalt" und welche Kuriositäten sich auf dem Scratch Hub finden und "remixen" lassen. Neben allen anderen Stärken, welche die Sprache besitzt, vermute ich auch _darin_ wenigstens zum Teil den Ursprung ihres Erfolgs. Jeder kann jeden inspirieren.  
+
+Mich hat die mit ein paar Ausnahmen sehr intuitive Benutzeroberfläche überzeugt. Innerhalb von wenigen Minuten findet sich auch jemand, der noch nie mit Scratch gearbeitet hat, mühelos zurecht. Man muss nicht etwa erst an der Hand gehalten durch die Entwicklungsumgebung geführt werden. Oder, wie in anderen Sprachen etwa, um ein Codesample überhaupt verstehen zu können, erst den kompletten Syntax erlernen. Alles lässt sich sofort begreifen und ist absolut selbsterklärend. Nicht umsonst ist die Firma Lego eine der Hauptunterstützerinnen des Scratch-Projektes.  
+
+Und doch stiess ich immer wieder an die Grenzen der Möglichkeiten, welche mir Scratch geboten hat. Besonders was die sehr eingeschränkte Parameterübergabe betrifft oder das komplette Fehlen von Polymorphismus. Ebensowenig lassen sich Referenzen auf Klone übergeben ohne ein Gebilde aus globalen Flags und Event Blöcken. Was vielversprechend und voller bunter Begeisterung beginnt, endet früher oder später nicht selten in einem overengineeretem Gebastel aus Kaugummi und Ducttape. Und trotzdem hatte ich Spass!
