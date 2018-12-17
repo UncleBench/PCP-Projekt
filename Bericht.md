@@ -80,6 +80,10 @@ Nebst den wesentlichen Kategorien gibt es Erweiterungen (Extensions) die unter a
 
 ### 2.3 Nachrichten & Nebenläufigkeit
 
+Zwei der Ereignis Blöcke erlauben es Nachrichten als _Broadcast_ an alle Figuren des Scratch-Programms zu senden. Eine Nachricht besteht nur aus einem einzelnen Bezeichner und enthält keine weiteren Informationen. Bei jeder Figur kann nun der entsprechende Hat-Block hinzugefügt werden, dessen darunter stehende Skript als Reaktion auf eine erhaltene Nachricht ausgeführt wird. Über dieses Senden und Empfangen wird die Kommunikation zwischen Figuren ermöglicht. Sie können so interagieren und aufeinander reagieren.
+
+Da beliebig viele Figuren und Skript auf eine Nachricht aktiviert werden können, lässt sich Code auf sehr einfache Art parallel ausführen. Dies auch schon ohne wirklichen Kenntnissen von Parallelisierung und Synchronisierung. Mit "Sende an alle und warte" kann man sogar abwarten, bis alle aufgerufenen Skripte abgeschlossen sind. Beispielsweise bei einem Dialog zwischen zwei Figuren, die so aufeinander warten können.
+
 ### 2.4 Klone (erlauben OOP)
 
 ## 3. Fazit
