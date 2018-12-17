@@ -109,5 +109,12 @@ Als Softwareentwickler: Nein, nicht produktiv. Projekte können nicht offiziell 
 Als Lehrer: Definitiv. Die grafische Oberfläche und visuelle Darstellung von Code ermöglicht einen unkomplizierten Start in die Programmierung.
 
 ### 3.2 Persönliches Fazit Lucas Schnüriger
+Mir war Scratch zwar durchaus ein Begriff, wusste aber nicht was wirklich dahinter steckt. Ich war schon nach sehr kurzer Zeit völlig überrascht über die Möglichkeiten, die Scratch bietet. Es ist nicht nur eine triviale Spielerei für Kinder, sondern hat einen erstaunlich grossen Funktionsumfang. Mit etwas Ausdauer lassen sich komplexere Anwendungen und Spiele erstellen, was man bei den vielen veröffentlichen Projekten auf der Webseite auch sehen kann.
+
+Besonders interessant finde ich die Verwendung des Broadcast Prinzips. Damit kann sehr intuitiv Code bei beliebig vielen anderen Figuren aufgerufen werden und sogar Parallelisierung umgesetzt werden. Aus meiner Sicht ist dies eine extreme Art der viel-zitierten Entkopplung von Komponenten. Sender und Empfänger kennen sich nicht und beeinflussen sich nicht direkt. Etwas schade ist die Tatsache, dass keine Daten mitgesendet werden können, sondern der Weg über globale Variablen gemacht werden muss. Was zwar zu Scratch passt, aber als Entwickler zunächst unintuitiv ist.
+
+Die exzessive "Klickerei", die Scratch bedingt, ist für mich persönlich nach etwas Zeit eher mühsam. Während das für Neueinsteiger und Kinder einfacher sein mag, bevorzuge ich die Arbeit mit der Tastatur und würde den Code lieber schreiben statt auf dem Bildschirm herumziehen.
+
+Um Kindern und Jugendlichen, aber auch nicht-technikaffinen Erwachsenen, das Programmieren auf spielerische, verständliche Art beizubringen kann ich Scratch nur empfehlen. Besonders da die grundlegenden Konzepte imperativer (und auch etwas der objektorientierten) Programmierung erhalten sind. Man kann eigene Funktionsblöcke mit Namen aufrufen, globale und lokale Variablen haben, es hat alle üblichen Schleifen und Bedingungen. Möchten Interessierte nach Scratch weiterfahren, müssen sie nicht alle gelernten Konzepte wieder über den Haufen werfen.
 
 ### 3.3 Persönliches Fazit Valentin Bürgler
