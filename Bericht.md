@@ -34,7 +34,7 @@ Weiter sammelt das MIT Daten über die Nutzung und betreibt Forschung darüber, 
 
 ### 1.3 Verbreitung
 
-Scratch wird in über 150 Ländern verwendet und ist in mehr als 40 Sprachen verfügbar. In Schulen ist es nicht selten schon ein Teil des Informatikunterrichts geworden. In den sogenannten "Scratch Studios" auf der [offiziellen Seite](https://scratch.mit.edu/)
+Scratch wird in über 150 Ländern verwendet und ist in mehr als 40 Sprachen verfügbar. In Schulen ist es nicht selten schon ein Teil des Informatikunterrichts geworden. In den meist nach Themenbereich gruppierten, sogenannten "Scratch Studios" (vor 2.0 noch "Galleries") auf der [offiziellen Seite](https://scratch.mit.edu/) können Benutzer ihre Projekte veröffentlichen. Nach dem Veröffentlichen ist es jedermann gestattet, einen sogenannten "Remix" des Projektes zu machen. Sämtliche in "Scratch Studios" veröffentlichte Projekte unterliegen der Creative Commons Attribution Share-Alike license 2.0.
 
 ## 2. Die Sprache
 ### 2.1 Allgemeines
