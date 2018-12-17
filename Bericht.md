@@ -95,25 +95,18 @@ Geklonte Figuren haben keine besonderen Bezug zueinander oder zu anderen Figuren
 ## 3. Fazit
 ### 3.1 Team
 #### "Gute" Sprache?
-Ja - Kaum eine Sprache schafft es, genau das zu halten, was sie verspricht. Scratch schafft dies mit Bravur.
+Ja - Kaum eine Sprache schafft es, genau das zu halten, was sie verspricht. Scratch schafft dies mit Bravour. Sie will den Einsteig in die Welt des Programmieren verständlich und intuitiv machen, unbeachtet des Vorwissens. Dies macht Scratch hervorragend.
 
 **Pro:**  
 Es ist *die* Sprache, um jemanden an das Programmieren heran zu führen. Man braucht keinen Syntax zu lernen, da dieser in Form von visuellen Blöcken völlig selbsterklärend ist. Ausserdem lassen sich keine Syntaxfehler machen, weil man die Blöcke nicht falsch zusammenstecken kann. Die Blöcke ergeben letztendlich auch sehr sprechenden "Code", den man dann in seiner eigenen Muttersprache lesen kann.
 
 **Contra:**  
-Drag-and-drop-Hölle
+Als Softwareentwickler ist die Programmierung mit praktisch ausschliesslich Drag & Drop sehr ungewohnt und eher ein Hindernis zum schnellen Arbeiten mit der Tastatur.
 
 ####  Würden Sie sie regelmässig einsetzten wollen?
-Als Softwareentwickler: Nein, nicht produktiv.
-Als Lehrer: Definitiv.
+Als Softwareentwickler: Nein, nicht produktiv. Projekte können nicht offiziell als Stand-Alone-Applikation exportiert werden, sondern sind von der Scratch-Webseite abhängig. Da alles im Rahmen von Scratch unter der Creative Commons Lizenz steht, darf man keine proprietäre Software mit geschlossenem Quelltext damit erstellen. Scratch könnte allerdings als Werkzeug, um rasch ein Proof-of-Concept Prototyp zu erstellen hilfreich sein.
 
-####  Falls Ja: für was?
-Als Werkzeug um ein Proof-of-Concept zu erstellen
-
-####  Falls Nein: Wieso nicht?
-Projekte können nicht als Standalone-Applikation exportiert werden, sondern sind von der Scratch-Seite abhängig.
-Man darf keine Proprietärsoftware damit erstellen.
-
+Als Lehrer: Definitiv. Die grafische Oberfläche und visuelle Darstellung von Code ermöglicht einen unkomplizierten Start in die Programmierung.
 
 ### 3.2 Persönliches Fazit Lucas Schnüriger
 
